@@ -8,6 +8,6 @@ require (
 	google.golang.org/protobuf v1.27.1
 )
 
-#replace (
-#	github.com/bsm/zetasketch => github.com/gowthamkommineni/zetasketch
-#)
+//replace (
+//	github.com/bsm/zetasketch => github.com/gowthamkommineni/zetasketch
+//)
