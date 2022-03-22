@@ -1,4 +1,4 @@
-module github.com/gowthamkommineni/zetasketch/v1
+module github.com/gowthamkommineni/zetasketch
 
 go 1.14
 
