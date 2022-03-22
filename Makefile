@@ -9,7 +9,7 @@ lint:
 bench:
 	go test ./... -run=NONE -bench=. -benchmem
 
-GOPROTO_PACKAGE=github.com/bsm/zetasketch/internal/zetasketch
+GOPROTO_PACKAGE=github.com/gowthamkommineni/zetasketch/internal/zetasketch
 
 # proto task fetches and compiles zetasketch protobuf.
 #
