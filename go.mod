@@ -1,4 +1,4 @@
-module github.com/bsm/zetasketch
+module github.com/gowthamkommineni/zetasketch/v1
 
 go 1.14
 
