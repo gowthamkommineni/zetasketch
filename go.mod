@@ -7,3 +7,5 @@ require (
 	github.com/bsm/gomega v1.16.0
 	google.golang.org/protobuf v1.27.1
 )
+
+replace github.com/bsm/zetasketch => github.com/gowthamkommineni/zetasketch
