@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	pb "github.com/bsm/zetasketch/internal/zetasketch"
+	pb "github.com/gowthamkommineni/zetasketch/internal/zetasketch"
 )
 
 // Precision bounds.
