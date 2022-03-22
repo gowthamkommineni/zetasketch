@@ -1,7 +1,7 @@
 package zetasketch_test
 
 import (
-	"github.com/bsm/zetasketch"
+	"github.com/gowthamkommineni/zetasketch"
 
 	. "github.com/bsm/ginkgo"
 	. "github.com/bsm/gomega"
