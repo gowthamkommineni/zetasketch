@@ -3,7 +3,7 @@ package hash_test
 import (
 	"testing"
 
-	"github.com/bsm/zetasketch/internal/hash"
+	"github.com/gowthamkommineni/zetasketch/internal/hash"
 
 	. "github.com/bsm/ginkgo"
 	. "github.com/bsm/gomega"
