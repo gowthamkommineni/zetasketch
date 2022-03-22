@@ -3,9 +3,9 @@ package zetasketch
 import (
 	"fmt"
 
-	"github.com/bsm/zetasketch/hllplus"
-	"github.com/bsm/zetasketch/internal/zetasketch"
-	pb "github.com/bsm/zetasketch/internal/zetasketch"
+	"github.com/gowthamkommineni/zetasketch/hllplus"
+	"github.com/gowthamkommineni/zetasketch/internal/zetasketch"
+	pb "github.com/gowthamkommineni/zetasketch/internal/zetasketch"
 	"google.golang.org/protobuf/proto"
 )
 
