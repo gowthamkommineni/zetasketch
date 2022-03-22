@@ -5,7 +5,7 @@ package zetasketch
 import (
 	"encoding"
 
-	"github.com/bsm/zetasketch/internal/hash"
+	"github.com/gowthamkommineni/zetasketch/internal/hash"
 )
 
 // Aggregator provides an interface that wraps
