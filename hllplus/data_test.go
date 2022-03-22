@@ -1,7 +1,7 @@
 package hllplus_test
 
 import (
-	"github.com/bsm/zetasketch/hllplus"
+	"github.com/gowthamkommineni/zetasketch/hllplus"
 
 	. "github.com/bsm/ginkgo"
 	. "github.com/bsm/gomega"
