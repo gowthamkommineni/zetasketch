@@ -43,7 +43,7 @@ func newSparseState(normalPrecision, sparsePrecision uint8, state []byte) *spars
 		sparsePrecision: sparsePrecision,
 
 		data:   data,
-		buffer: make(uint32Set, maxBufferLen),
+		buffer: make(uint32Set, 0),
 
 		encodedFlag:  encodedFlag,
 		maxDataLen:   maxDataLen,
